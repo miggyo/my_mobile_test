@@ -1,0 +1,49 @@
+[0.036s] Invoking command in '/home/min/dev_ws/my_mobile/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/min/dev_ws/my_mobile/build/my_robot_description -- -j12 -l12
+[0.129s] Invoked command in '/home/min/dev_ws/my_mobile/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/min/dev_ws/my_mobile/build/my_robot_description -- -j12 -l12
+[0.220s] Invoking command in '/home/min/dev_ws/my_mobile/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/min/dev_ws/my_mobile/build/my_robot_description
+[0.238s] -- Install configuration: ""
+[0.238s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/rviz
+[0.238s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/rviz/urdf_config.rviz
+[0.239s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/urdf
+[0.239s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/urdf/ros2_control.xacro
+[0.239s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/urdf/robot_gazebo.xacro
+[0.239s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/urdf/robot.urdf.xacro
+[0.239s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/urdf/camera.xacro
+[0.239s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/urdf/gazebo_control.xacro
+[0.239s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/urdf/lidar.xacro
+[0.239s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/urdf/robot_core.xacro
+[0.239s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/launch
+[0.239s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/launch/upload.launch.xml
+[0.240s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/launch/display.launch.xml
+[0.240s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes
+[0.240s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/collision
+[0.240s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/collision/ydlidar_x2_assy.stl
+[0.241s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/collision/ul_sensor.stl
+[0.243s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/collision/base_link.stl
+[0.244s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/collision/front_camera.stl
+[0.247s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/collision/wheel.stl
+[0.247s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual
+[0.249s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/wheel.dae
+[0.250s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/front_camera.png
+[0.252s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/wheel.png
+[0.253s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/front_camera.dae
+[0.253s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/ydlidar_x2_assy.dae
+[0.254s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/ul_sensor.dae
+[0.255s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/ydlidar_x2.png
+[0.258s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/meshes/visual/base_link.dae
+[0.260s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[0.261s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[0.261s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[0.261s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[0.262s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/environment/path.sh
+[0.262s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[0.262s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/local_setup.bash
+[0.262s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/local_setup.sh
+[0.263s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[0.263s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[0.263s] -- Installing: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/package.dsv
+[0.263s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[0.263s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[0.264s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[0.264s] -- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_description/share/my_robot_description/package.xml
+[0.271s] Invoked command in '/home/min/dev_ws/my_mobile/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/min/dev_ws/my_mobile/build/my_robot_description

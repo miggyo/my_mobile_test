@@ -1,0 +1,33 @@
+[0.008s] Invoking command in '/home/min/dev_ws/my_mobile/build/my_robot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/min/dev_ws/my_mobile/src/my_robot_gazebo -DCMAKE_INSTALL_PREFIX=/home/min/dev_ws/my_mobile/install/my_robot_gazebo
+[0.118s] -- The C compiler identification is GNU 11.4.0
+[0.207s] -- The CXX compiler identification is GNU 11.4.0
+[0.217s] -- Detecting C compiler ABI info
+[0.271s] -- Detecting C compiler ABI info - done
+[0.278s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.278s] -- Detecting C compile features
+[0.278s] -- Detecting C compile features - done
+[0.281s] -- Detecting CXX compiler ABI info
+[0.346s] -- Detecting CXX compiler ABI info - done
+[0.353s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.353s] -- Detecting CXX compile features
+[0.353s] -- Detecting CXX compile features - done
+[0.356s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.501s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.588s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.655s] -- Added test 'lint_cmake' to check CMake code style
+[0.656s] -- Added test 'xmllint' to check XML markup files
+[0.658s] -- Configuring done
+[0.660s] -- Generating done
+[0.660s] -- Build files have been written to: /home/min/dev_ws/my_mobile/build/my_robot_gazebo
+[0.663s] Invoked command in '/home/min/dev_ws/my_mobile/build/my_robot_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/min/dev_ws/my_mobile/src/my_robot_gazebo -DCMAKE_INSTALL_PREFIX=/home/min/dev_ws/my_mobile/install/my_robot_gazebo
+[0.665s] Invoking command in '/home/min/dev_ws/my_mobile/build/my_robot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/min/dev_ws/my_mobile/build/my_robot_gazebo -- -j12 -l12
+[0.693s] Invoked command in '/home/min/dev_ws/my_mobile/build/my_robot_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/min/dev_ws/my_mobile/build/my_robot_gazebo -- -j12 -l12
+[0.709s] Invoking command in '/home/min/dev_ws/my_mobile/build/my_robot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/min/dev_ws/my_mobile/build/my_robot_gazebo
+[0.715s] -- Install configuration: ""
+[0.715s] [31mCMake Error at cmake_install.cmake:46 (file):
+[0.715s]   file INSTALL cannot find
+[0.715s]   "/home/min/dev_ws/my_mobile/src/my_robot_gazebo/rviz": No such file or
+[0.715s]   directory.
+[0.715s] 
+[0.715s] [0m
+[0.716s] Invoked command in '/home/min/dev_ws/my_mobile/build/my_robot_gazebo' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/min/dev_ws/my_mobile/build/my_robot_gazebo

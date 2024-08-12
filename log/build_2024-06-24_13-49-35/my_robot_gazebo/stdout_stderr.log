@@ -1,0 +1,12 @@
+-- Install configuration: ""
+-- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/launch
+-- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/launch/launch_sim_old.launch.xml
+-- Installing: /home/min/dev_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/launch/launch_sim.launch.xml
+-- Up-to-date: /home/min/dev_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/config
+-- Installing: /home/min/dev_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/config/my_controllers.yaml
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/min/dev_ws/my_mobile/src/my_robot_gazebo/worlds": No such file or
+  directory.
+
+[0m

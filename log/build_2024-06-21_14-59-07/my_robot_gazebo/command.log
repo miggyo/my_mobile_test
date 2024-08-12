@@ -1,0 +1,6 @@
+Invoking command in '/home/min/dev_ws/my_mobile/build/my_robot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/min/dev_ws/my_mobile/src/my_robot_gazebo -DCMAKE_INSTALL_PREFIX=/home/min/dev_ws/my_mobile/install/my_robot_gazebo
+Invoked command in '/home/min/dev_ws/my_mobile/build/my_robot_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/min/dev_ws/my_mobile/src/my_robot_gazebo -DCMAKE_INSTALL_PREFIX=/home/min/dev_ws/my_mobile/install/my_robot_gazebo
+Invoking command in '/home/min/dev_ws/my_mobile/build/my_robot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/min/dev_ws/my_mobile/build/my_robot_gazebo -- -j12 -l12
+Invoked command in '/home/min/dev_ws/my_mobile/build/my_robot_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/min/dev_ws/my_mobile/build/my_robot_gazebo -- -j12 -l12
+Invoking command in '/home/min/dev_ws/my_mobile/build/my_robot_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/min/dev_ws/my_mobile/build/my_robot_gazebo
+Invoked command in '/home/min/dev_ws/my_mobile/build/my_robot_gazebo' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/min/dev_ws/my_mobile/build/my_robot_gazebo
